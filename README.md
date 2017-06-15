@@ -1,1 +1,1 @@
-# corenfc
+# Core NFC Example Expanded
